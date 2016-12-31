@@ -61,3 +61,4 @@ public class BPP {
         System.out.println("Number of bins required using first fit decreasing algorithm is: " + binCount);
     }
 }
+ 
